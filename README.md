@@ -5,6 +5,7 @@ Course project for the coursera "Getting and Cleaning Data" course, peer reviewe
 
 ========================================
 In this repo there are three files:
+
 1. README (this file) with general comments
 2. CodeBook.md which explains how run_analysis.R works and variables used
 3. run_analysis.R which runs the code if data is present in the same directory
