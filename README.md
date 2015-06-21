@@ -17,3 +17,5 @@ In order to use the script provided in this repo, you need to:
 * You will find two output files generated:
   - prettyData.txt (~ 8Mb): it contains a data frame with 10299*68 dimension
   - tidyData.txt (~ 220 Kb): it contains a data frame 180*68 dimension
+
+NOTE: Datasets needed to run the code and generated files are not part of this repo. In order to evaluate and test the code zou need to follow instructions provided here, which include getting the files.
